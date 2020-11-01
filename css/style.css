@@ -1,0 +1,15 @@
+.st0 {
+
+
+
+
+
+    color: rgba(255,255,255,.1);
+    background-image: url("../blood5.jpg"); background-repeat: repeat-x;
+    -webkit-background-clip: content-box;
+    width:600px;
+    padding-left:18px;
+    animation: animate 2.5s linear both;
+    animation-delay: 8.7s;
+
+}
